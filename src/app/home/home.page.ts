@@ -13,8 +13,6 @@ export class HomePage {
 
   closeAccodion() {
     this.accordionGroup.value = 'frameworks';
-
-
   }
   toggleSection() {
     this.accordionGroup.value = 'languages';
